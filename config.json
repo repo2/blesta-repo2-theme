@@ -1,8 +1,12 @@
 {
-	"version": "1.0.0",
-	"name": "LowEndHost - Green",
-	"description": "A free theme designed by AALayer.com",
+	"version": "0.0.0",
+	"name": "repo2",
+	"description": "repo2 default theme",
 	"authors": [
+		{
+			"name": "repo2",
+			"url": ""
+		},
 		{
 			"name": "AALayer",
 			"url": "https://aalayer.com"
